@@ -27,3 +27,7 @@
 |C 프로그래밍|C 언어 개요|3|
 |JAVA 프로그래밍||Java 개요|3|
 |소프트웨어 세미나||최신 소프트웨어 트랜드|1|
+
+github address : [juhyeon21][github]
+
+[github][http://github.com/juhyeon21
